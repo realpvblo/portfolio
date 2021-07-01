@@ -514,10 +514,10 @@ img{
   width: 80%;
 }
 .skills__js{
-  width: 60%;
+  width: 70%;
 }
 .skills__react{
-  width: 70%;
+  width: 50%;
 }
 
 
@@ -542,6 +542,9 @@ img{
 }
 .skills__photoshop{
   width: 85%;
+}
+.skills__paint{
+  width: 99%;
 }
 
 .skills__close .skills__list{
