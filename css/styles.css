@@ -636,6 +636,8 @@ img{
 
 /*==================== GALLERY / CERTIFICATES ====================*/
 div.gallery {
+  display: flex;
+  justify-content: center;
   align-content: center;
 }
 
