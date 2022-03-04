@@ -646,7 +646,7 @@ div.gallery:hover {
 div.gallery img {
   width: 100%;
   height: auto;
-  align-self: center;
+  align-content: center;
 }
 
 div.desc {
