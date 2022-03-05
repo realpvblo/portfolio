@@ -635,6 +635,14 @@ img{
 }
 
 /*==================== GALLERY / CERTIFICATES ====================*/
+.certyfikat_sekcja{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
 div.gallery {
 
 }
