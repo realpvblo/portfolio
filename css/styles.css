@@ -636,14 +636,15 @@ img{
 
 /*==================== GALLERY / CERTIFICATES ====================*/
 div.gallery {
-  display: flex;
-  justify-content: center;
-  align-content: center;
+
 }
 
 div.gallery img {
   width: 100%;
   height: auto;
+  display: flex;
+  justify-content: center;
+  align-content: center;
 }
 
 div.desc {
