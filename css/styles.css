@@ -635,23 +635,6 @@ img{
 }
 
 /*==================== GALLERY / CERTIFICATES ====================*/
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> parent of 22e6959 (update)
-=======
-.section__title{
-  font-size: var(--normal-font-size);
-  font-weight: var(--font-medium);
-}
-
-.section__subtitle{
-  display: inline-block;
-  font-size: var(--small-font-size);
-  margin-bottom: var(--mb-1);
-}
->>>>>>> parent of 7e988b4 (Update styles.css)
 
 .certyfikat_sekcja{
   width: 100%;
