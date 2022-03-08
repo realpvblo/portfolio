@@ -644,6 +644,10 @@ img{
   justify-content: center;
 }
 
+.certyfikat_header{
+  margin-top: 5rem;
+}
+
 div.gallery img {
   width: 100%;
   height: auto;
