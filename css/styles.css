@@ -546,6 +546,12 @@ img{
 .skills__paint{
   width: 99%;
 }
+.skills__canva{
+  width: 80%;
+}
+.skills__illustrator{
+  width: 70%;
+}
 
 .skills__close .skills__list{
   height: 0;
