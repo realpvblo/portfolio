@@ -659,7 +659,7 @@ img{
 div.gallery img {
   width: 100%;
   height: auto;
-  padding: 3rem;
+  padding: 50px;
 }
 
 div.desc {
