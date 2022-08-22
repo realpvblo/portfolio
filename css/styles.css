@@ -643,7 +643,7 @@ img{
 /*==================== GALLERY / CERTIFICATES ====================*/
 
 .certyfikat_sekcja{
-  width: 70%;
+  width: 50%;
   height: auto;
   display: flex;
   flex-wrap: wrap;
